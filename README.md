@@ -1,9 +1,9 @@
 Added:
 
-autostart+systray patch
+Systray patch
 
-xTerm default terminal (check my dotfiles for a config)
+alacritty default terminal emulator
 
-Roboto font as default, over monospace
+default font change
 
 Also see: my bash script executed by the autostart patch (https://github.com/danieljudd/Autostart-Tiling)
